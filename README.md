@@ -1,9 +1,15 @@
 ### Olá! Eu sou o Emerson Igor 👋
 
+<div align="center">
+  <a href="https://github.com/Emersonfgerd">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Emersonfgerd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emersonfgerd&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emersonigor.ds/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-igor-427b21178/)
-
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=Emersonfgerd&show_icons=true&theme=dark)
+<a href = "mailto:emersonigor2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,6 +23,9 @@
   
   Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   
+  ![Snake animation](https://github.com/brunopaiva1/brunopaiva1/blob/output/github-contribution-grid-snake.svg)
+  
   ## Formas de contato: 
   - ermesonigor2002@gmail.com
   - (84) 99600-7699
+
